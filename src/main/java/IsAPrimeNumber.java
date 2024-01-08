@@ -8,7 +8,6 @@ public class IsAPrimeNumber {
                 return false;
             }
         }
-
         return true; // TODO: placeholder. To be replace with real code.
     }
 }
